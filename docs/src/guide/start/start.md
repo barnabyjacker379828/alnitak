@@ -8,7 +8,7 @@
 
 ### 运行项目
 1. 进入到`server`目录
-2. 使命令行输入`go run cmd\main.go -env dev`启动项目
+2. 使命令行输入`go run cmd/main.go -env dev`启动项目
 3. 访问`localhost:9000`，如果页面中出现`404 not found`则说明项目运行成功
 
 
